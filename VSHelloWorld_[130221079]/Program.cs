@@ -14,8 +14,7 @@ namespace VSHelloWorld__130221079_
     {
         public static void Main(string[] args)
         {
-            //comentario teste
-            //2
+           //Bruno Marques
             BuildWebHost(args).Run();
         }
 
